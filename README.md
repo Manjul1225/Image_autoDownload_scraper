@@ -1,0 +1,1 @@
+Imgdownloader is an online bulk image downloader tool that enables you to download image from a Webpage, Google Search Engine and Instagram in bulk.
